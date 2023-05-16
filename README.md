@@ -43,14 +43,22 @@ To run the project and reproduce the results, please follow these steps:
 The following dependencies are required to run the project:
 
 •	Python 3.9
+
 •	pandas
+
 •	scikit-learn
+
 •	numpy
+
 •	matplotlib
+
 •	seaborn
+
 •	jupyter
 
+
 You can install these dependencies using the following command:
+
 `pip install -r requirements.txt`
 
 ## Contributing **🤝**
