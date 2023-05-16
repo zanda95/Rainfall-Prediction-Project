@@ -29,13 +29,13 @@ R2-Score
 ## **Getting Started 🚀**
 To run the project and reproduce the results, please follow these steps:
 
-Clone this repository: git clone https://github.com/zanda95/Rainfall-Prediction-Project.git
-Install the required dependencies: pip install -r requirements.txt
-Download the dataset from Australian Government's Bureau of Meteorology and place it in the data directory.
-Open the notebook rainfall_prediction.ipynb using Jupyter Notebook or any compatible environment.
-Follow the instructions in the notebook to preprocess the data and apply the classification algorithms.
-Evaluate the performance of each classifier using the provided evaluation metrics.
-Explore the results and conclusions presented in the notebook.
+1. Clone this repository: git clone https://github.com/zanda95/Rainfall-Prediction-Project.git
+2. Install the required dependencies: pip install -r requirements.txt
+3. Download the dataset from Australian Government's Bureau of Meteorology and place it in the data directory.
+4. Open the notebook rainfall_prediction.ipynb using Jupyter Notebook or any compatible environment.
+5. Follow the instructions in the notebook to preprocess the data and apply the classification algorithms.
+6. Evaluate the performance of each classifier using the provided evaluation metrics.
+7. Explore the results and conclusions presented in the notebook.
 
 ## **Dependencies 🛠️**
 
