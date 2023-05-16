@@ -57,6 +57,7 @@ The following dependencies are required to run the project:
 •	jupyter
 
 
+
 You can install these dependencies using the following command:
 
 `pip install -r requirements.txt`
