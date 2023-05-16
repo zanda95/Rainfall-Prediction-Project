@@ -10,21 +10,23 @@ The dataset used for this project can be obtained from the Australian Government
 
 The following classification algorithms will be implemented in this project:
 
-Linear Regression
-K-Nearest Neighbors (KNN)
-Decision Trees
-Logistic Regression
-Support Vector Machines (SVM)
-Evaluation Metrics 📏
+1. Linear Regression
+2. K-Nearest Neighbors (KNN)
+3. Decision Trees
+4. Logistic Regression
+5. Support Vector Machines (SVM)
+
+
+## **Evaluation Metrics 📏**
 The performance of each classifier will be evaluated using the following metrics:
 
-Accuracy Score
-Jaccard Index
-F1-Score
-LogLoss
-Mean Absolute Error
-Mean Squared Error
-R2-Score
+1.	Accuracy Score
+2.	Jaccard Index
+3.	F1-Score
+4.	LogLoss
+5.	Mean Absolute Error
+6.	Mean Squared Error
+7.	R2-Score
 
 ## **Getting Started 🚀**
 To run the project and reproduce the results, please follow these steps:
@@ -38,21 +40,18 @@ To run the project and reproduce the results, please follow these steps:
 7. Explore the results and conclusions presented in the notebook.
 
 ## **Dependencies 🛠️**
-
 The following dependencies are required to run the project:
-Python 3.9
-pandas
-scikit-learn
-numpy
-matplotlib
-seaborn
-jupyter
+
+•	Python 3.9
+•	pandas
+•	scikit-learn
+•	numpy
+•	matplotlib
+•	seaborn
+•	jupyter
 
 You can install these dependencies using the following command:
-
-shell
-Copy code
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Contributing **🤝**
 
